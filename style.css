@@ -1,0 +1,22 @@
+.map_contain{
+    height: 300px;
+    width: 300px;
+    background-color: #99b3cc;
+    border-radius: 15px;
+}
+
+.cityinput{
+    margin: 0 50px 0 50px;
+    height: 30px;
+    width: 200px;
+}
+
+.where{
+    font-size: 24px;
+    font-weight: normal;
+    text-align: center;
+    padding: 70px 0 0 0;
+    font-family: Helvetica;
+    color: rgba(0, 0, 0, 0.8);
+    margin: 0 0 5px 0;
+}
